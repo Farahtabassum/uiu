@@ -1,0 +1,111 @@
+*{margin: 0;padding: 0;outline: 0}
+body{font-family: arial;
+  font-size: 16px;
+  line-height: 15px;
+  color: #000}
+
+
+.templete{width: 960px;
+      margin:0 auto;}
+
+}
+.clear{overflow: hidden;}
+
+.headersection{ height: 200px;
+         background: #00CED1 ;
+         color: #fff;}
+
+.logo{ 
+  width: 630px;
+  float: left;
+    
+    
+
+
+ }
+.logo img{
+      width: 200px;
+      float: left;
+      padding-left: 10px;
+      margin-right: 15px;
+
+
+}
+.logo h2{
+      margin-top:90px;
+      font-size:30px;
+      margin-bottom:10px;
+      color:#fff;
+      text-shadow:2px 2px 0 #666;
+}
+.logo p{
+  margin-top:30px;
+}
+.social{ 
+    width: 255px;
+    float: right;
+    padding-top: 45px; }
+.social img{
+      margin-top:25px;
+    width: 60px;
+    border-radius: 5px;
+}
+.navsection{
+          background: #20B2AA none repeat scroll 0 0;
+          height: 300px;
+          }
+
+.navsection ol{
+        margin:0;
+        padding:0;
+        
+  
+}
+.navsection ol li{
+                margin-right: 10px;
+                margin-top: 15px;
+        display:block;
+        float:none;
+        
+}
+.navsection ol li a {
+              border:1px solid #c48d29;
+              color: #fff;
+              display: block;
+              font-size: 20px;
+              font-weight: bold;
+              margin: 5px;
+              padding: 5px 15px;
+              text-decoration: none;
+              background:#BD8119;
+              border:1px solid;
+
+
+            } 
+
+.navsection ol li a:hover{
+              background: #FEF4E5;
+              color: #333;
+
+}
+h2{
+  padding-top:10px;
+  padding-left:10px
+}
+
+table {
+  margin-top: 20px;
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
